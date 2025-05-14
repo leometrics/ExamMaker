@@ -1,0 +1,155 @@
+Question Index,Topic,Marks
+9231_s17_qp_22_Q7,t-Test (single sample),7
+9231_s17_qp_22_Q8,Continuous Random Variable,10
+9231_s17_qp_22_Q9,t-Test (pooled sample),10
+9231_s17_qp_22_Q11B,Chi-square Test (goodness of fit),14
+9231_s17_qp_23_Q6,t-Test (pooled sample),5
+9231_s17_qp_23_Q8,t-Test (pooled sample),9
+9231_s17_qp_23_Q10,Chi-square Test (goodness of fit),12
+9231_s18_qp_22_Q7,t-Test (single sample),7
+9231_s18_qp_22_Q8,Chi-square Test (contingency table),8
+9231_s18_qp_22_Q10,t-Test (pooled sample),12
+9231_s18_qp_23_Q9,Continuous Random Variable,9
+9231_s18_qp_23_Q10,t-Test (paired sample),12
+9231_s18_qp_23_Q11B,Chi-square Test (goodness of fit),14
+9231_s19_qp_22_Q7,Continuous Random Variable,8
+9231_s19_qp_22_Q8,t-Test (paired sample),8
+9231_s19_qp_22_Q9,Chi-square Test (goodness of fit),10
+9231_s19_qp_22_Q11B,t-Test (pooled sample),12
+9231_s19_qp_23_Q8,Chi-square Test (contingency table),8
+9231_s19_qp_23_Q9,t-Test (single sample),10
+9231_s19_qp_23_Q11B,t-Test (pooled sample),12
+9231_s20_qp_42_Q1,Chi-square Test (contingency table),6
+9231_s20_qp_42_Q2,Wilcoxon Test (signed-rank),7
+9231_s20_qp_42_Q3,Continuous Random Variable,8
+9231_s20_qp_42_Q4,t-Test (pooled sample),9
+9231_s20_qp_42_Q5,t-Test (single sample),10
+9231_s20_qp_42_Q6,Probability Generating Function,10
+9231_s20_qp_43_Q1,Chi-square Test (contingency table),6
+9231_s20_qp_43_Q2,Confidence Interval,5
+9231_s20_qp_43_Q3,Continuous Random Variable,9
+9231_s20_qp_43_Q4,Probability Generating Function,8
+9231_s20_qp_43_Q5,t-Test (single sample),11
+9231_s20_qp_43_Q6,Wilcoxon Test (rank-sum),11
+9231_s21_qp_42_Q1,t-Test (single sample),7
+9231_s21_qp_42_Q2,Chi-square Test (contingency table),7
+9231_s21_qp_42_Q3,Continuous Random Variable,8
+9231_s21_qp_42_Q4,t-Test (pooled sample),8
+9231_s21_qp_42_Q5,Wilcoxon Test (signed-rank),8
+9231_s21_qp_42_Q6,Probability Generating Function,12
+9231_s21_qp_43_Q1,t-Test (single sample),6
+9231_s21_qp_43_Q2,Wilcoxon Test (signed-rank),7
+9231_s21_qp_43_Q3,t-Test (pooled sample),8
+9231_s21_qp_43_Q4,Probability Generating Function,8
+9231_s21_qp_43_Q5,Chi-square Test (goodness of fit),10
+9231_s21_qp_43_Q6,Continuous Random Variable,11
+9231_s22_qp_42_Q1,t-Test (paired sample),8
+9231_s22_qp_42_Q2,Probability Generating Function,7
+9231_s22_qp_42_Q3,Continuous Random Variable,8
+9231_s22_qp_42_Q4,Chi-square Test (goodness of fit),8
+9231_s22_qp_42_Q5,Confidence Interval,9
+9231_s22_qp_42_Q6,Wilcoxon Test (signed-rank),10
+9231_s22_qp_43_Q1,Confidence Interval,4
+9231_s22_qp_43_Q2,Chi-square Test (contingency table),7
+9231_s22_qp_43_Q3,Probability Generating Function,8
+9231_s22_qp_43_Q4,Continuous Random Variable,10
+9231_s22_qp_43_Q5,Wilcoxon Test (signed-rank),9
+9231_s22_qp_43_Q6,t-Test (pooled sample),12
+9231_s23_qp_42_Q1,Confidence Interval,4
+9231_s23_qp_42_Q2,t-Test (pooled sample),8
+9231_s23_qp_42_Q3,Chi-square Test (goodness of fit),9
+9231_s23_qp_42_Q4,Wilcoxon Test (signed-rank),9
+9231_s23_qp_42_Q5,Probability Generating Function,9
+9231_s23_qp_42_Q6,Continuous Random Variable,11
+9231_s23_qp_43_Q1,Continuous Random Variable,8
+9231_s23_qp_43_Q2,Confidence Interval,6
+9231_s23_qp_43_Q3,Wilcoxon Test (signed-rank),8
+9231_s23_qp_43_Q4,t-Test (pooled sample),9
+9231_s23_qp_43_Q5,Probability Generating Function,9
+9231_s23_qp_43_Q6,Chi-square Test (contingency table),10
+9231_s24_qp_42_Q1,Confidence Interval,4
+9231_s24_qp_42_Q2,Wilcoxon Test (signed-rank),5
+9231_s24_qp_42_Q3,Wilcoxon Test (signed-rank),8
+9231_s24_qp_42_Q4,Probability Generating Function,7
+9231_s24_qp_42_Q5,Chi-square Test (contingency table),8
+9231_s24_qp_42_Q6,t-Test (paired sample),8
+9231_s24_qp_42_Q7,Continuous Random Variable,10
+9231_s24_qp_43_Q1,Wilcoxon Test (rank-sum),7
+9231_s24_qp_43_Q2,Confidence Interval,7
+9231_s24_qp_43_Q3,Chi-square Test (contingency table),7
+9231_s24_qp_43_Q4,Probability Generating Function,9
+9231_s24_qp_43_Q5,Continuous Random Variable,10
+9231_s24_qp_43_Q6,Confidence Interval,10
+9231_w17_qp_22_Q8,Chi-square Test (contingency table),8
+9231_w17_qp_22_Q10,t-Test (pooled sample),13
+9231_w18_qp_22_Q6,Confidence Interval,6
+9231_w18_qp_22_Q7,Continuous Random Variable,6
+9231_w18_qp_22_Q10,Chi-square Test (goodness of fit),12
+9231_w18_qp_22_Q11B,t-Test (pooled sample),14
+9231_w18_qp_23_Q6,Continuous Random Variable,6
+9231_w18_qp_23_Q8,t-Test (pooled sample),9
+9231_w18_qp_23_Q9,t-Test (single sample),10
+9231_w18_qp_23_Q11B,Chi-square Test (goodness of fit),12
+9231_w19_qp_22_Q6,Confidence Interval,7
+9231_w19_qp_22_Q8,t-Test (pooled sample),9
+9231_w19_qp_22_Q10,Continuous Random Variable,10
+9231_w19_qp_22_Q11B,Chi-square Test (goodness of fit),14
+9231_w20_qp_42_Q1,t-Test (single sample),5
+9231_w20_qp_42_Q2,Wilcoxon Test (signed-rank),9
+9231_w20_qp_42_Q3,Chi-square Test (goodness of fit),7
+9231_w20_qp_42_Q4,Continuous Random Variable,9
+9231_w20_qp_42_Q5,Probability Generating Function,8
+9231_w20_qp_42_Q6,Confidence Interval,12
+9231_w20_qp_43_Q1,Confidence Interval,7
+9231_w20_qp_43_Q2,Wilcoxon Test (signed-rank),7
+9231_w20_qp_43_Q3,Chi-square Test (goodness of fit),7
+9231_w20_qp_43_Q4,t-Test (paired sample),8
+9231_w20_qp_43_Q5,Probability Generating Function,10
+9231_w20_qp_43_Q6,Continuous Random Variable,11
+9231_w21_qp_42_Q1,Confidence Interval,7
+9231_w21_qp_42_Q2,Chi-square Test (goodness of fit),8
+9231_w21_qp_42_Q3,Continuous Random Variable,8
+9231_w21_qp_42_Q4,Wilcoxon Test (rank-sum),8
+9231_w21_qp_42_Q5,Probability Generating Function,9
+9231_w21_qp_42_Q6,t-Test (pooled sample),10
+9231_w21_qp_43_Q1,Confidence Interval,7
+9231_w21_qp_43_Q2,Continuous Random Variable,8
+9231_w21_qp_43_Q3,Chi-square Test (goodness of fit),8
+9231_w21_qp_43_Q4,t-Test (paired sample),8
+9231_w21_qp_43_Q5,Probability Generating Function,10
+9231_w21_qp_43_Q6,Wilcoxon Test (rank-sum),9
+9231_w22_qp_42_Q1,Confidence Interval,6
+9231_w22_qp_42_Q2,Chi-square Test (contingency table),7
+9231_w22_qp_42_Q3,t-Test (pooled sample),8
+9231_w22_qp_42_Q4,Continuous Random Variable,10
+9231_w22_qp_42_Q5,Probability Generating Function,9
+9231_w22_qp_42_Q6,Wilcoxon Test (rank-sum),10
+9231_w22_qp_43_Q1,Confidence Interval,7
+9231_w22_qp_43_Q2,Chi-square Test (goodness of fit),8
+9231_w22_qp_43_Q3,Wilcoxon Test (signed-rank),8
+9231_w22_qp_43_Q4,Probability Generating Function,8
+9231_w22_qp_43_Q5,Continuous Random Variable,10
+9231_w22_qp_43_Q6,t-Test (pooled sample),9
+9231_w23_qp_42_Q1,Confidence Interval,6
+9231_w23_qp_42_Q2,Chi-square Test (goodness of fit),8
+9231_w23_qp_42_Q3,Probability Generating Function,10
+9231_w23_qp_42_Q4,Continuous Random Variable,10
+9231_w23_qp_42_Q5,Wilcoxon Test (rank-sum),16
+9231_w23_qp_43_Q1,t-Test (single sample),6
+9231_w23_qp_43_Q2,Chi-square Test (contingency table),7
+9231_w23_qp_43_Q3,t-Test (paired sample),8
+9231_w23_qp_43_Q4,Continuous Random Variable,9
+9231_w23_qp_43_Q5,Probability Generating Function,10
+9231_w23_qp_43_Q6,Wilcoxon Test (signed-rank),10
+9231_w24_qp_42_Q1,Confidence Interval,4
+9231_w24_qp_42_Q2,Probability Generating Function,8
+9231_w24_qp_42_Q3,Chi-square Test (goodness of fit),10
+9231_w24_qp_42_Q4,Continuous Random Variable,10
+9231_w24_qp_42_Q5,t-Test (pooled sample),9
+9231_w24_qp_42_Q6,Wilcoxon Test (signed-rank),9
+9231_w24_qp_43_Q1,Confidence Interval,6
+9231_w24_qp_43_Q2,Wilcoxon Test (signed-rank),9
+9231_w24_qp_43_Q3,Chi-square Test (goodness of fit),8
+9231_w24_qp_43_Q4,Continuous Random Variable,10
+9231_w24_qp_43_Q5,Probability Generating Function,9
+9231_w24_qp_43_Q6,t-Test (pooled sample),8
