@@ -1,0 +1,8 @@
+🔧What's New (May 19 2025 Update):
+            
+- Refined Random Selection for Paper 3
+- Added 'Copy Question Indices' feature 
+- Added 'LaTeX Installation Check' feature 
+- Improved UI layout and button availability control 
+- Mark Scheme buttons added (Function temporarily unavailable) 
+- Numerous bug fixes and usability improvements."

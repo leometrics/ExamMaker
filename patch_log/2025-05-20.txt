@@ -1,0 +1,8 @@
+🔧What's New (May 20 2025 Update):
+            
+- New PDF generation logic, no need to pre-install LaTeX anymore!
+- Improved Random Selection for Paper 3. There can be 2 questions about Circular Motion now.
+- Redundant LaTeX-related functions removed.
+- Improved UI layout.
+- Question categorization mistakes fixed.
+- Numerous bug fixes and usability improvements.

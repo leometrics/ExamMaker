@@ -1,3 +1,0 @@
-([('main',
-   '/Users/leolin/PycharmProjects/exam_maker/dist/main',
-   'EXECUTABLE')],)

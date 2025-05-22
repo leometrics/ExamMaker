@@ -1,0 +1,7 @@
+📌What's New (May 21 2025 Update):
+            
+- Redesigned "What's New" window.
+- 9709 Paper 3 Now included, Random Paper Generation Available.
+- Note 9709 Paper 3 is only available for March papers now, will update in the future.
+- Auto clean-up at exit added to delete temporary files.
+- "Command + W" shortcut to close the window added.
